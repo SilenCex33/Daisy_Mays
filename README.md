@@ -1,2 +1,3 @@
-# Daisy_Mays
-Repository für Daisy &amp; May's Hundefriseur Salon
+# Hundefriseur-Website
+
+Responsive, performante und barrierefreie Website für einen Hundefriseur.
